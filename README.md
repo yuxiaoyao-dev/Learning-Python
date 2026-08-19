@@ -1,1 +1,1 @@
-# Python-project
+A repasitory for learning Python
